@@ -1,0 +1,52 @@
+E:\4.Moji_Programi\Loopie_predictor\gitCloneTest\Loopie_Helper_GUI\bin\Debug\net8.0-windows\Loopie_Helper_GUI.exe
+E:\4.Moji_Programi\Loopie_predictor\gitCloneTest\Loopie_Helper_GUI\bin\Debug\net8.0-windows\Loopie_Helper_GUI.deps.json
+E:\4.Moji_Programi\Loopie_predictor\gitCloneTest\Loopie_Helper_GUI\bin\Debug\net8.0-windows\Loopie_Helper_GUI.runtimeconfig.json
+E:\4.Moji_Programi\Loopie_predictor\gitCloneTest\Loopie_Helper_GUI\bin\Debug\net8.0-windows\Loopie_Helper_GUI.dll
+E:\4.Moji_Programi\Loopie_predictor\gitCloneTest\Loopie_Helper_GUI\bin\Debug\net8.0-windows\Loopie_Helper_GUI.pdb
+E:\4.Moji_Programi\Loopie_predictor\gitCloneTest\Loopie_Helper_GUI\obj\Debug\net8.0-windows\Loopie_Helper_GUI.Form1.resources
+E:\4.Moji_Programi\Loopie_predictor\gitCloneTest\Loopie_Helper_GUI\obj\Debug\net8.0-windows\Loopie_Helper_GUI.Properties.Resources.resources
+E:\4.Moji_Programi\Loopie_predictor\gitCloneTest\Loopie_Helper_GUI\obj\Debug\net8.0-windows\Loopie_Helper_GUI.csproj.GenerateResource.cache
+E:\4.Moji_Programi\Loopie_predictor\gitCloneTest\Loopie_Helper_GUI\obj\Debug\net8.0-windows\Loopie_Helper_GUI.GeneratedMSBuildEditorConfig.editorconfig
+E:\4.Moji_Programi\Loopie_predictor\gitCloneTest\Loopie_Helper_GUI\obj\Debug\net8.0-windows\Loopie_Helper_GUI.AssemblyInfoInputs.cache
+E:\4.Moji_Programi\Loopie_predictor\gitCloneTest\Loopie_Helper_GUI\obj\Debug\net8.0-windows\Loopie_Helper_GUI.AssemblyInfo.cs
+E:\4.Moji_Programi\Loopie_predictor\gitCloneTest\Loopie_Helper_GUI\obj\Debug\net8.0-windows\Loopie_Helper_GUI.csproj.CoreCompileInputs.cache
+E:\4.Moji_Programi\Loopie_predictor\gitCloneTest\Loopie_Helper_GUI\obj\Debug\net8.0-windows\Loopie_Helper_GUI.dll
+E:\4.Moji_Programi\Loopie_predictor\gitCloneTest\Loopie_Helper_GUI\obj\Debug\net8.0-windows\refint\Loopie_Helper_GUI.dll
+E:\4.Moji_Programi\Loopie_predictor\gitCloneTest\Loopie_Helper_GUI\obj\Debug\net8.0-windows\Loopie_Helper_GUI.pdb
+E:\4.Moji_Programi\Loopie_predictor\gitCloneTest\Loopie_Helper_GUI\obj\Debug\net8.0-windows\Loopie_Helper_GUI.genruntimeconfig.cache
+E:\4.Moji_Programi\Loopie_predictor\gitCloneTest\Loopie_Helper_GUI\obj\Debug\net8.0-windows\ref\Loopie_Helper_GUI.dll
+E:\4.Moji_Programi\Loopie_predictor\gitCloneTest\Loopie_Helper_GUI - Copy\bin\Debug\net8.0-windows\Loopie_Helper_GUI.dll
+E:\4.Moji_Programi\Loopie_predictor\gitCloneTest\Loopie_Helper_GUI - Copy\bin\Debug\net8.0-windows\Loopie_Helper_GUI.exe
+E:\4.Moji_Programi\Loopie_predictor\gitCloneTest\Loopie_Helper_GUI - Copy\bin\Debug\net8.0-windows\Loopie_Helper_GUI.deps.json
+E:\4.Moji_Programi\Loopie_predictor\gitCloneTest\Loopie_Helper_GUI - Copy\bin\Debug\net8.0-windows\Loopie_Helper_GUI.runtimeconfig.json
+E:\4.Moji_Programi\Loopie_predictor\gitCloneTest\Loopie_Helper_GUI - Copy\obj\Debug\net8.0-windows\Loopie_Helper_GUI.Form1.resources
+E:\4.Moji_Programi\Loopie_predictor\gitCloneTest\Loopie_Helper_GUI - Copy\obj\Debug\net8.0-windows\Loopie_Helper_GUI.Properties.Resources.resources
+E:\4.Moji_Programi\Loopie_predictor\gitCloneTest\Loopie_Helper_GUI - Copy\obj\Debug\net8.0-windows\Loopie_Helper_GUI.csproj.GenerateResource.cache
+E:\4.Moji_Programi\Loopie_predictor\gitCloneTest\Loopie_Helper_GUI - Copy\obj\Debug\net8.0-windows\Loopie_Helper_GUI.GeneratedMSBuildEditorConfig.editorconfig
+E:\4.Moji_Programi\Loopie_predictor\gitCloneTest\Loopie_Helper_GUI - Copy\obj\Debug\net8.0-windows\Loopie_Helper_GUI.AssemblyInfoInputs.cache
+E:\4.Moji_Programi\Loopie_predictor\gitCloneTest\Loopie_Helper_GUI - Copy\obj\Debug\net8.0-windows\Loopie_Helper_GUI.AssemblyInfo.cs
+E:\4.Moji_Programi\Loopie_predictor\gitCloneTest\Loopie_Helper_GUI - Copy\obj\Debug\net8.0-windows\Loopie_Helper_GUI.csproj.CoreCompileInputs.cache
+E:\4.Moji_Programi\Loopie_predictor\gitCloneTest\Loopie_Helper_GUI - Copy\obj\Debug\net8.0-windows\Loopie_Helper_GUI.dll
+E:\4.Moji_Programi\Loopie_predictor\gitCloneTest\Loopie_Helper_GUI - Copy\obj\Debug\net8.0-windows\refint\Loopie_Helper_GUI.dll
+E:\4.Moji_Programi\Loopie_predictor\gitCloneTest\Loopie_Helper_GUI - Copy\obj\Debug\net8.0-windows\Loopie_Helper_GUI.pdb
+E:\4.Moji_Programi\Loopie_predictor\gitCloneTest\Loopie_Helper_GUI - Copy\obj\Debug\net8.0-windows\Loopie_Helper_GUI.genruntimeconfig.cache
+E:\4.Moji_Programi\Loopie_predictor\gitCloneTest\Loopie_Helper_GUI - Copy\bin\Debug\net8.0-windows\Loopie_Helper_GUI.pdb
+E:\4.Moji_Programi\Loopie_predictor\gitCloneTest\Loopie_Helper_GUI - Copy\obj\Debug\net8.0-windows\ref\Loopie_Helper_GUI.dll
+E:\4.Moji_Programi\Loopie_predictor\gitCloneTest\FendBend\Loopie_Helper_GUI - Copy\bin\Debug\net8.0-windows\Loopie_Helper_GUI.exe
+E:\4.Moji_Programi\Loopie_predictor\gitCloneTest\FendBend\Loopie_Helper_GUI - Copy\bin\Debug\net8.0-windows\Loopie_Helper_GUI.dll
+E:\4.Moji_Programi\Loopie_predictor\gitCloneTest\FendBend\Loopie_Helper_GUI - Copy\obj\Debug\net8.0-windows\Loopie_Helper_GUI.Form1.resources
+E:\4.Moji_Programi\Loopie_predictor\gitCloneTest\FendBend\Loopie_Helper_GUI - Copy\obj\Debug\net8.0-windows\Loopie_Helper_GUI.Properties.Resources.resources
+E:\4.Moji_Programi\Loopie_predictor\gitCloneTest\FendBend\Loopie_Helper_GUI - Copy\obj\Debug\net8.0-windows\Loopie_Helper_GUI.csproj.GenerateResource.cache
+E:\4.Moji_Programi\Loopie_predictor\gitCloneTest\FendBend\Loopie_Helper_GUI - Copy\obj\Debug\net8.0-windows\Loopie_Helper_GUI.GeneratedMSBuildEditorConfig.editorconfig
+E:\4.Moji_Programi\Loopie_predictor\gitCloneTest\FendBend\Loopie_Helper_GUI - Copy\obj\Debug\net8.0-windows\Loopie_Helper_GUI.AssemblyInfoInputs.cache
+E:\4.Moji_Programi\Loopie_predictor\gitCloneTest\FendBend\Loopie_Helper_GUI - Copy\obj\Debug\net8.0-windows\Loopie_Helper_GUI.AssemblyInfo.cs
+E:\4.Moji_Programi\Loopie_predictor\gitCloneTest\FendBend\Loopie_Helper_GUI - Copy\obj\Debug\net8.0-windows\Loopie_Helper_GUI.csproj.CoreCompileInputs.cache
+E:\4.Moji_Programi\Loopie_predictor\gitCloneTest\FendBend\Loopie_Helper_GUI - Copy\obj\Debug\net8.0-windows\Loopie_Helper_GUI.dll
+E:\4.Moji_Programi\Loopie_predictor\gitCloneTest\FendBend\Loopie_Helper_GUI - Copy\obj\Debug\net8.0-windows\refint\Loopie_Helper_GUI.dll
+E:\4.Moji_Programi\Loopie_predictor\gitCloneTest\FendBend\Loopie_Helper_GUI - Copy\obj\Debug\net8.0-windows\Loopie_Helper_GUI.pdb
+E:\4.Moji_Programi\Loopie_predictor\gitCloneTest\FendBend\Loopie_Helper_GUI - Copy\bin\Debug\net8.0-windows\Loopie_Helper_GUI.deps.json
+E:\4.Moji_Programi\Loopie_predictor\gitCloneTest\FendBend\Loopie_Helper_GUI - Copy\bin\Debug\net8.0-windows\Loopie_Helper_GUI.runtimeconfig.json
+E:\4.Moji_Programi\Loopie_predictor\gitCloneTest\FendBend\Loopie_Helper_GUI - Copy\bin\Debug\net8.0-windows\Loopie_Helper_GUI.pdb
+E:\4.Moji_Programi\Loopie_predictor\gitCloneTest\FendBend\Loopie_Helper_GUI - Copy\obj\Debug\net8.0-windows\Loopie_Helper_GUI.genruntimeconfig.cache
+E:\4.Moji_Programi\Loopie_predictor\gitCloneTest\FendBend\Loopie_Helper_GUI - Copy\obj\Debug\net8.0-windows\ref\Loopie_Helper_GUI.dll
+E:\4.Moji_Programi\Loopie_predictor\gitCloneTest\FendBend\Loopie_Helper_GUI - Copy\obj\Debug\net8.0-windows\Loopie_Helper_GUI.FormPlaceholder1.resources

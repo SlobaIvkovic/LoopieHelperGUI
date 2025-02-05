@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Loopie_Helper_GUI/1.0.0": {
+        "runtime": {
+          "Loopie_Helper_GUI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Loopie_Helper_GUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
